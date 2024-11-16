@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background: #CD5C5C;
+}
+
+.bottomPipe {
+    transform: translateX(-190px);
+}
+
+.topPipe {
+    transform: translate(-60px, -550px);
+    text-align: center;
+}
+
+.bird {
+    transform: translate(40px, -1100px);
+}
+
+.background {
+    transform: translate(290px, -1200px);
+    text-align: center;
+}
+
+.bottomPipeImg {
+    width: 100px;
+    height: 500px;
+}
+
+.topPipeImg {
+    width: 100px;
+    height: 500px;
+}
+
+.birdImg {
+    width: 34px;
+    height: 24px;
+}
+
+.backgroundImg {
+    width: 360px;
+    height: 640px;
+}
+
+.menu {
+    background: transparent;
+    border: none;
+    transform: translate(-790px, -1900px);
+}
+
+.play {
+    transform: translate(-790px, -1900px);
+}
+
+.home {
+    transform: translate(-790px, -1900px);
+}
